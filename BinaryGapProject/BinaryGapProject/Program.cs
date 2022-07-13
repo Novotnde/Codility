@@ -9,7 +9,7 @@
             var binaryRepre = Console.ReadLine();
             if(binaryRepre != null)
             {
-                Console.WriteLine(ComputeLargestBinaryGap(binaryRepre.ToString()));
+                Console.WriteLine(ComputeLargestBinaryGap(Convert.ToString(binaryRepre,2);));
             }
             else
             {
