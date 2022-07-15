@@ -1,0 +1,15 @@
+C:\Users\Denisa.Novotna\PersonalProject\CyclicRotation\CyclicRotation\bin\Debug\net6.0\CyclicRotation.exe
+C:\Users\Denisa.Novotna\PersonalProject\CyclicRotation\CyclicRotation\bin\Debug\net6.0\CyclicRotation.deps.json
+C:\Users\Denisa.Novotna\PersonalProject\CyclicRotation\CyclicRotation\bin\Debug\net6.0\CyclicRotation.runtimeconfig.json
+C:\Users\Denisa.Novotna\PersonalProject\CyclicRotation\CyclicRotation\bin\Debug\net6.0\CyclicRotation.dll
+C:\Users\Denisa.Novotna\PersonalProject\CyclicRotation\CyclicRotation\bin\Debug\net6.0\CyclicRotation.pdb
+C:\Users\Denisa.Novotna\PersonalProject\CyclicRotation\CyclicRotation\obj\Debug\net6.0\CyclicRotation.csproj.AssemblyReference.cache
+C:\Users\Denisa.Novotna\PersonalProject\CyclicRotation\CyclicRotation\obj\Debug\net6.0\CyclicRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denisa.Novotna\PersonalProject\CyclicRotation\CyclicRotation\obj\Debug\net6.0\CyclicRotation.AssemblyInfoInputs.cache
+C:\Users\Denisa.Novotna\PersonalProject\CyclicRotation\CyclicRotation\obj\Debug\net6.0\CyclicRotation.AssemblyInfo.cs
+C:\Users\Denisa.Novotna\PersonalProject\CyclicRotation\CyclicRotation\obj\Debug\net6.0\CyclicRotation.csproj.CoreCompileInputs.cache
+C:\Users\Denisa.Novotna\PersonalProject\CyclicRotation\CyclicRotation\obj\Debug\net6.0\CyclicRotation.dll
+C:\Users\Denisa.Novotna\PersonalProject\CyclicRotation\CyclicRotation\obj\Debug\net6.0\refint\CyclicRotation.dll
+C:\Users\Denisa.Novotna\PersonalProject\CyclicRotation\CyclicRotation\obj\Debug\net6.0\CyclicRotation.pdb
+C:\Users\Denisa.Novotna\PersonalProject\CyclicRotation\CyclicRotation\obj\Debug\net6.0\CyclicRotation.genruntimeconfig.cache
+C:\Users\Denisa.Novotna\PersonalProject\CyclicRotation\CyclicRotation\obj\Debug\net6.0\ref\CyclicRotation.dll
