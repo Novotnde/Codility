@@ -1,0 +1,15 @@
+C:\Users\Denisa.Novotna\PersonalProject\OddOccurrencesInArray\OddOccurrencesInArray\bin\Debug\net6.0\OddOccurrencesInArray.exe
+C:\Users\Denisa.Novotna\PersonalProject\OddOccurrencesInArray\OddOccurrencesInArray\bin\Debug\net6.0\OddOccurrencesInArray.deps.json
+C:\Users\Denisa.Novotna\PersonalProject\OddOccurrencesInArray\OddOccurrencesInArray\bin\Debug\net6.0\OddOccurrencesInArray.runtimeconfig.json
+C:\Users\Denisa.Novotna\PersonalProject\OddOccurrencesInArray\OddOccurrencesInArray\bin\Debug\net6.0\OddOccurrencesInArray.dll
+C:\Users\Denisa.Novotna\PersonalProject\OddOccurrencesInArray\OddOccurrencesInArray\bin\Debug\net6.0\OddOccurrencesInArray.pdb
+C:\Users\Denisa.Novotna\PersonalProject\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\net6.0\OddOccurrencesInArray.csproj.AssemblyReference.cache
+C:\Users\Denisa.Novotna\PersonalProject\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\net6.0\OddOccurrencesInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denisa.Novotna\PersonalProject\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\net6.0\OddOccurrencesInArray.AssemblyInfoInputs.cache
+C:\Users\Denisa.Novotna\PersonalProject\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\net6.0\OddOccurrencesInArray.AssemblyInfo.cs
+C:\Users\Denisa.Novotna\PersonalProject\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\net6.0\OddOccurrencesInArray.csproj.CoreCompileInputs.cache
+C:\Users\Denisa.Novotna\PersonalProject\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\net6.0\OddOccurrencesInArray.dll
+C:\Users\Denisa.Novotna\PersonalProject\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\net6.0\refint\OddOccurrencesInArray.dll
+C:\Users\Denisa.Novotna\PersonalProject\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\net6.0\OddOccurrencesInArray.pdb
+C:\Users\Denisa.Novotna\PersonalProject\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\net6.0\OddOccurrencesInArray.genruntimeconfig.cache
+C:\Users\Denisa.Novotna\PersonalProject\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\net6.0\ref\OddOccurrencesInArray.dll
