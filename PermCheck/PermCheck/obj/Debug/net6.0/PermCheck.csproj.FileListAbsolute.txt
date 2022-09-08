@@ -1,0 +1,15 @@
+C:\Users\Denisa.Novotna\PersonalProject\PermCheck\PermCheck\bin\Debug\net6.0\PermCheck.exe
+C:\Users\Denisa.Novotna\PersonalProject\PermCheck\PermCheck\bin\Debug\net6.0\PermCheck.deps.json
+C:\Users\Denisa.Novotna\PersonalProject\PermCheck\PermCheck\bin\Debug\net6.0\PermCheck.runtimeconfig.json
+C:\Users\Denisa.Novotna\PersonalProject\PermCheck\PermCheck\bin\Debug\net6.0\PermCheck.dll
+C:\Users\Denisa.Novotna\PersonalProject\PermCheck\PermCheck\bin\Debug\net6.0\PermCheck.pdb
+C:\Users\Denisa.Novotna\PersonalProject\PermCheck\PermCheck\obj\Debug\net6.0\PermCheck.csproj.AssemblyReference.cache
+C:\Users\Denisa.Novotna\PersonalProject\PermCheck\PermCheck\obj\Debug\net6.0\PermCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denisa.Novotna\PersonalProject\PermCheck\PermCheck\obj\Debug\net6.0\PermCheck.AssemblyInfoInputs.cache
+C:\Users\Denisa.Novotna\PersonalProject\PermCheck\PermCheck\obj\Debug\net6.0\PermCheck.AssemblyInfo.cs
+C:\Users\Denisa.Novotna\PersonalProject\PermCheck\PermCheck\obj\Debug\net6.0\PermCheck.csproj.CoreCompileInputs.cache
+C:\Users\Denisa.Novotna\PersonalProject\PermCheck\PermCheck\obj\Debug\net6.0\PermCheck.dll
+C:\Users\Denisa.Novotna\PersonalProject\PermCheck\PermCheck\obj\Debug\net6.0\refint\PermCheck.dll
+C:\Users\Denisa.Novotna\PersonalProject\PermCheck\PermCheck\obj\Debug\net6.0\PermCheck.pdb
+C:\Users\Denisa.Novotna\PersonalProject\PermCheck\PermCheck\obj\Debug\net6.0\PermCheck.genruntimeconfig.cache
+C:\Users\Denisa.Novotna\PersonalProject\PermCheck\PermCheck\obj\Debug\net6.0\ref\PermCheck.dll
