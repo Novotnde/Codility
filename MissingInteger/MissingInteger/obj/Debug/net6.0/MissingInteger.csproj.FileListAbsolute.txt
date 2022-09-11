@@ -1,0 +1,15 @@
+C:\Users\Denisa.Novotna\PersonalProject\MissingInteger\MissingInteger\obj\Debug\net6.0\MissingInteger.csproj.AssemblyReference.cache
+C:\Users\Denisa.Novotna\PersonalProject\MissingInteger\MissingInteger\obj\Debug\net6.0\MissingInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denisa.Novotna\PersonalProject\MissingInteger\MissingInteger\obj\Debug\net6.0\MissingInteger.AssemblyInfoInputs.cache
+C:\Users\Denisa.Novotna\PersonalProject\MissingInteger\MissingInteger\obj\Debug\net6.0\MissingInteger.AssemblyInfo.cs
+C:\Users\Denisa.Novotna\PersonalProject\MissingInteger\MissingInteger\obj\Debug\net6.0\MissingInteger.csproj.CoreCompileInputs.cache
+C:\Users\Denisa.Novotna\PersonalProject\MissingInteger\MissingInteger\bin\Debug\net6.0\MissingInteger.exe
+C:\Users\Denisa.Novotna\PersonalProject\MissingInteger\MissingInteger\bin\Debug\net6.0\MissingInteger.deps.json
+C:\Users\Denisa.Novotna\PersonalProject\MissingInteger\MissingInteger\bin\Debug\net6.0\MissingInteger.runtimeconfig.json
+C:\Users\Denisa.Novotna\PersonalProject\MissingInteger\MissingInteger\bin\Debug\net6.0\MissingInteger.dll
+C:\Users\Denisa.Novotna\PersonalProject\MissingInteger\MissingInteger\bin\Debug\net6.0\MissingInteger.pdb
+C:\Users\Denisa.Novotna\PersonalProject\MissingInteger\MissingInteger\obj\Debug\net6.0\MissingInteger.dll
+C:\Users\Denisa.Novotna\PersonalProject\MissingInteger\MissingInteger\obj\Debug\net6.0\refint\MissingInteger.dll
+C:\Users\Denisa.Novotna\PersonalProject\MissingInteger\MissingInteger\obj\Debug\net6.0\MissingInteger.pdb
+C:\Users\Denisa.Novotna\PersonalProject\MissingInteger\MissingInteger\obj\Debug\net6.0\MissingInteger.genruntimeconfig.cache
+C:\Users\Denisa.Novotna\PersonalProject\MissingInteger\MissingInteger\obj\Debug\net6.0\ref\MissingInteger.dll
