@@ -4,32 +4,34 @@
     {
         static void Main(string[] args)
         {
+            int[] A = { 42 };
+            solution(A);
+        }
 
-            int[] nums = { 2,9, 2,2,2 };
-
-       
-            if(nums.Length <= 1)
+        public static int solution(int[] A)
+        {
+            if (A.Length < 1)
             {
-                Console.WriteLine("0");
+                return 0;
             }
-            else if(nums.Length == 1)
+            else if (A.Length == 1)
             {
-                Console.WriteLine(nums[0]);
+                return (A[0]);
             }
             else
             {
-                for (var i = 0; i < nums.Length; i++)
+                for (var i = 0; i < A.Length; i++)
                 {
-                    var num = nums.Count(s => s == nums[i]);
+                    var num = A.Count(s => s == A[i]);
 
                     if (num == 1)
                     {
-                        Console.WriteLine(nums[i]);
+                        return (A[i]);
 
                     }
                 }
             }
-          
+            return 0;
         }
     }
 
