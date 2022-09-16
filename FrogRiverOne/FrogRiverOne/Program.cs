@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             var array = new int[] { 1, 3, 1, 4, 2, 3, 5, 4 };
+             //For example, for the input (2, [1, 1, 1, 1]) the solution returned a wrong answer (got 3 expected -1).
              var test = solution(5,array);
         }
 
